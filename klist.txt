@@ -1,0 +1,7 @@
+Credentials cache: API:D794D487-F55D-4342-806B-AC9D46E23DD0
+        Principal: pihartee@42.FR
+
+  Issued                Expires               Principal
+Mar  6 18:18:47 2017  Mar 13 18:18:47 2017  krbtgt/42.FR@42.FR
+Mar  6 18:18:49 2017  Mar 13 18:18:47 2017  ldap/ldap-proxy.42.fr@42.FR
+Mar  6 18:18:49 2017  Mar 13 18:18:47 2017  HTTP/student-storage-1.42.fr@42.FR
